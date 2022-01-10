@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJCIvkwpT+Xleva0P68Pc9+Drio8sc3lCSvLWB4LJ/Jndkvvq2e5E1tZFaLn43Wh5cL5r/IVafc7/J0RUetGYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CGreene1\\source\\repos\\RestingMovieAPILab\\RestingMovieAPILab\\RestingMovieAPILab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CGreene1\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\CGreene1\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512",
+    "C:\\Users\\CGreene1\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\CGreene1\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
